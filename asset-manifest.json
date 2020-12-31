@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kittenpals/static/css/main.7f5fcfc3.chunk.css",
+    "main.js": "/kittenpals/static/js/main.d4b000bb.chunk.js",
+    "main.js.map": "/kittenpals/static/js/main.d4b000bb.chunk.js.map",
+    "runtime-main.js": "/kittenpals/static/js/runtime-main.be4db675.js",
+    "runtime-main.js.map": "/kittenpals/static/js/runtime-main.be4db675.js.map",
+    "static/css/2.31461e4f.chunk.css": "/kittenpals/static/css/2.31461e4f.chunk.css",
+    "static/js/2.366e42d4.chunk.js": "/kittenpals/static/js/2.366e42d4.chunk.js",
+    "static/js/2.366e42d4.chunk.js.map": "/kittenpals/static/js/2.366e42d4.chunk.js.map",
+    "index.html": "/kittenpals/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/kittenpals/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.7f5fcfc3.chunk.css.map": "/kittenpals/static/css/main.7f5fcfc3.chunk.css.map",
+    "static/js/2.366e42d4.chunk.js.LICENSE.txt": "/kittenpals/static/js/2.366e42d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be4db675.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.366e42d4.chunk.js",
+    "static/css/main.7f5fcfc3.chunk.css",
+    "static/js/main.d4b000bb.chunk.js"
+  ]
+}
