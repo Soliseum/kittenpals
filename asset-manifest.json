@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kittenpals/static/css/main.165985f4.chunk.css",
-    "main.js": "/kittenpals/static/js/main.c30bc984.chunk.js",
-    "main.js.map": "/kittenpals/static/js/main.c30bc984.chunk.js.map",
+    "main.js": "/kittenpals/static/js/main.4b96b775.chunk.js",
+    "main.js.map": "/kittenpals/static/js/main.4b96b775.chunk.js.map",
     "runtime-main.js": "/kittenpals/static/js/runtime-main.be4db675.js",
     "runtime-main.js.map": "/kittenpals/static/js/runtime-main.be4db675.js.map",
     "static/css/2.31461e4f.chunk.css": "/kittenpals/static/css/2.31461e4f.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.4803cf1e.chunk.js",
     "static/css/main.165985f4.chunk.css",
-    "static/js/main.c30bc984.chunk.js"
+    "static/js/main.4b96b775.chunk.js"
   ]
 }
